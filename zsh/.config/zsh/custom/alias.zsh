@@ -11,6 +11,8 @@ alias ka='kubectl apply -f'
 # Git
 alias gs='git status -sb'
 alias gl='git log --oneline'
+alias ga='git add .'
+alias gc='git commit -m'
 
 # QoL
 alias cat='batcat'
