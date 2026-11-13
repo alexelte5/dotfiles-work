@@ -17,7 +17,7 @@ kubectl, flux und kubectx/kubens werden vorausgesetzt.
 | `<TAB>` | Completion mit fzf, auch für Pods/Namespaces |
 | `→` | Grauen Autosuggestion-Vorschlag übernehmen |
 | `z <teil>` / `zi` | Zu besuchtem Ordner springen |
-| `l`, `la`, `lt` | eza-Listen / Baum |
+| `ls`, `la`, `lt` | eza-Listen / Baum |
 
 ## WSL-Tipps
 
