@@ -21,4 +21,4 @@ KUBE_PS1_NAMESPACE_FUNCTION=_kube_ns
 PROMPT='%B%F{#6366f1}%1~%f%b$(git_prompt_info)$(kube_ps1)
 %B%(?.%F{#8b5cf6}.%F{red})❯%f%b '
 
-RPROMPT=$'%{\e[1A%}%F{8}%T%f%{\e[1B%}'
+RPROMPT=$'%{\e[1A%}%F{8}$(_weather) %T%f%{\e[1B%}'
